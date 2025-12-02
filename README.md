@@ -10,4 +10,5 @@
 - ⛁⛁ SQL
 - 🐍🐍 Python
 - 🦀🦀 Rust
+- TypeScript
 - Git

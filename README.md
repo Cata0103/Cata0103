@@ -6,8 +6,8 @@
 - Siempre abierta a colaborar y a nuevas ideas de proyectos.
 
 ## </> Lenguajes y herramientas 
-- ☕️♨️ Java
-- 🛢️🛢️ SQL
-- 🐍🐍 Python
-- 🦀🦀 Rust
+- Java
+- Python
 - TypeScript
+- Rust
+- SQL
